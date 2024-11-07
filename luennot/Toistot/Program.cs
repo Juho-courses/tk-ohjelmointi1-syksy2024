@@ -15,9 +15,17 @@
 //     Console.Write(nums[i] + " ");
 // }
 
-int count = 0;
-while (count < 3)
+// int count = 0;
+// while (count < 3)
+// {
+//     Console.WriteLine(count);
+//     count++;
+// }
+
+string[] sanat = ["ohjelmointi", "on", "kivaa"];
+
+foreach (var sana in sanat)
 {
-    Console.WriteLine(count);
-    count++;
+    Console.WriteLine(sana);
+    continue;
 }
