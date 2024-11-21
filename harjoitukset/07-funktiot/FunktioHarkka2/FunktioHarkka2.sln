@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunktioHarkka2", "FunktioHarkka2.csproj", "{EA38A7EB-C319-4258-989A-8BBD06E6583D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA38A7EB-C319-4258-989A-8BBD06E6583D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA38A7EB-C319-4258-989A-8BBD06E6583D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA38A7EB-C319-4258-989A-8BBD06E6583D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA38A7EB-C319-4258-989A-8BBD06E6583D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6F8E6C8-4828-4E7A-A107-3AE22F9EE529}
+	EndGlobalSection
+EndGlobal
